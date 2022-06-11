@@ -19,7 +19,7 @@ N'oubliez pas d'installer node.js ❗️
     npx create-react-app nom-app
 ```
 ---
-- Accdédez à votre fichier puis faites ce push pour récupérer mon code:
+- Accédez à votre fichier puis faites ce push pour récupérer mon code:
 
 ```bash
     git pull https://github.com/zozo404/test-react.git
