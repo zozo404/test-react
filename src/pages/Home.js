@@ -1,4 +1,5 @@
 import React from 'react';
+import Countries from '../compenents/Countries';
 import Logo from '../compenents/Logo';
 import Navigation from '../compenents/Navigation';
 
@@ -7,7 +8,7 @@ const Home = () => {
         <div>
             <Logo></Logo>
             <Navigation></Navigation>
-            <h1>HOME</h1>
+            <Countries></Countries>
         </div>
     );
 };
