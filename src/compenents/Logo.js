@@ -6,7 +6,7 @@ const Logo = () => {
 
             {/* Les images importées depusi la balise img sont accessbiles dans 'public' */}
             <img src='./logo192.png' alt='logo react'></img>
-            <h3>React World</h3>
+            <h3>zozo 404's world</h3>
         </div>
     );
 };
