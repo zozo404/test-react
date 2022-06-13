@@ -16,17 +16,22 @@ N'oubliez pas d'installer node.js ❗️
 ```
 - Puis | ⚠️ attention à ne pas mettre de majuscule dans le nom
 ```bash
-    npx create-react-app nom-app
+npx create-react-app nom-app
 ```
 ---
 - Accédez à votre fichier puis faites ce push pour récupérer mon code:
 
 ```bash
-    git pull https://github.com/zozo404/test-react.git
+git pull https://github.com/zozo404/test-react.git
+```
+- Installer axios avec:
+
+```bash
+npm i axios
 ```
 - Et enfin, lancez le projet avec un:
 ```bash
-    npm start
+npm start
 ```
 ---
 ## Plus d'informations:
